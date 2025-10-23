@@ -1,0 +1,17 @@
+body{
+background-color:blue ;
+color:brown
+front-family:aqua;
+margin:opx;
+h1 {
+    color:aqua;
+    front-size:40px;
+}
+p{
+    front-size:25px;
+}
+header{
+    border-bottom:blue;
+    margin: 2px;
+    padding: 10px;
+    color:brown;
